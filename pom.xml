@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.Trial3</groupId>
 	<artifactId>ServiceRegistry</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>ServiceRegistry</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
